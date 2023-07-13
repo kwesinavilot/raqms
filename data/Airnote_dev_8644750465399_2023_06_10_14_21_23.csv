@@ -1,0 +1,2 @@
+Event,Device,SN,When,Best_Lat,Best_Lon,AQI,AQI_Algorithm,AQI_Level,C00_30,C00_50,C01_00,C02_50,C05_00,CSamples,CSecs,Humidity,PM01_0,PM01_0_Rstd,PM01_0cf1,PM02_5,PM02_5_Rstd,PM02_5cf1,PM10_0,PM10_0_Rstd,PM10_0cf1,Pressure,Sensor,Temperature,Voltage
+
